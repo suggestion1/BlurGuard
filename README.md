@@ -520,3 +520,6 @@ The following were designed during the requirements phase but are **not part of 
 **BlurGuard** is an academic project produced at HIAST. The application source code in this repository is authored by Abd Al-Hadi Nashawati.
 
 Third-party components keep their own licenses — notably the pre-trained BlazeFace and MobileFaceNet models and the Ultralytics YOLO training tooling. Review those licenses before redistributing the app or the model assets.
+
+
+Personal BlurGuard test build.
